@@ -1,0 +1,11 @@
+export type { picturesModel } from './partials/picturesModel';
+export type { documentsModel } from './partials/documentsModel';
+export type { maintenanceModel } from './partials/maintenanceModel';
+export type { incomesModel } from './partials/incomesModel';
+export type { expensesModel } from './partials/expensesModel';
+export type { bodyModel } from './partials/bodyModel';
+export type { engineModel } from './partials/engineModel';
+export type { attachmentsModel } from './partials/attachmentsModel';
+export type { priceModel } from './partials/priceModel';
+export type { promoModel } from './partials/promoModel';
+export type { externalModel } from './external/externalModel';
